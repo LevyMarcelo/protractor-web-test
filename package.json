@@ -1,0 +1,18 @@
+{
+  "name": "automacao-testes-protractor-components-page-objects-helper",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LevyMarcelo/automacao-testes-protractor-components-page-objects-helper.git"
+  },
+  "scripts": {
+    "webdriver:update": "webdriver-manager update"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "protractor": "^5.3.1",
+    "protractor-helper": "^3.2.6",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  }
+}
