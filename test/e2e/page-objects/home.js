@@ -1,6 +1,6 @@
 const HomePage = require("../components/home/main");
 
-class HomePO {
+class HomePo {
     constructor() {
         this.urlRelativa = "";
 
@@ -8,4 +8,4 @@ class HomePO {
     }
 }
 
-module.exports = HomePO;
+module.exports = new HomePo();
